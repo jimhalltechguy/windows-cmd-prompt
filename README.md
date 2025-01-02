@@ -4,7 +4,7 @@ The Windows Command Prompt uses the <b>Bash scripting language</b>.<br/>
   <p>https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands</p>
 
       <h2>Useful Commands:</h2>
-	“dir” - list the contents of the directory we are currently in</h2>
+		“dir” - list the contents of the directory we are currently in</h2>
 		“cls” - to clear the screen
 		“cd Downloads” - to change to the Downloads directory
 		“cd ..” - to go to one directory above
