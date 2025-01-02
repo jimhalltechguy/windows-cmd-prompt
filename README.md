@@ -4,7 +4,7 @@
   <p>https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands</p>
 
       <h2><b>Useful Commands:</h2></b>
-		“dir” - list the contents of the directory we are currently in
+		<p><b>“dir”</b> - list the contents of the directory we are currently in</p>
 		“cls” - to clear the screen
 		“cd Downloads” - to change to the Downloads directory
 		“cd ..” - to go to one directory above
