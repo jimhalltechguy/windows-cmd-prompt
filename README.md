@@ -1,5 +1,5 @@
 <h1>Helpful Windows Command Prompt Commands</h1>
-The Windows Command Prompt uses the <b>Bash scripting language</b>.<br/>
+The Windows Command Prompt, also known as "CMD", is a tool that allows users to perform a variety of tasks</b>.<br/>
   	Here is a helpful link for more on Windows Command Prompt commands:</p>
   <p>https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands</p>
 	<h2>“dir”</h2> 
