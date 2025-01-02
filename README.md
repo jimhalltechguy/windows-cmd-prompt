@@ -3,16 +3,18 @@ The Windows Command Prompt uses the <b>Bash scripting language</b>.<br/>
   	Here is a helpful link for more on Windows Command Prompt commands:</p>
   <p>https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands</p>
 
-      <h2><b>Useful Commands:</b></h2>
-		<p>“dir” - list the contents of the directory we are currently in</p>
-		<p>“cls” - to clear the screen</p>
-		<p>“cd Downloads” - to change to the Downloads directory</p>
-		<p>“cd ..” - to go to one directory above</p>
-		<p>“ipconfig” - shows networking settings - IPv4, subnet mask, default gateway, etc.</p>
-		<p>“ipconfig /all” - shows network settings with more/greater detail</p>
-		<p>“ipconfig /?” - shows the Help Menu for ipconfig</p>
-		<p>“ping /?” - brings up the Help menu for ping</p>
-		<p>“Ctrl + c” - to kill current process/lookup running</p>
+     
+	<h2>“dir”</h2> 
+  		list the contents of the directory we are currently in</h2>
+	<h2>“cls”
+ 		to clear the screen</p>
+	<p>“cd Downloads” - to change to the Downloads directory</p>
+	<p>“cd ..” - to go to one directory above</p>
+	<p>“ipconfig” - shows networking settings - IPv4, subnet mask, default gateway, etc.</p>
+	<p>“ipconfig /all” - shows network settings with more/greater detail</p>
+	<p>“ipconfig /?” - shows the Help Menu for ipconfig</p>
+	<p>“ping /?” - brings up the Help menu for ping</p>
+	<p>“Ctrl + c” - to kill current process/lookup running</p>
 
 
 <h1>Local and Domain Accounts</h1>
