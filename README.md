@@ -6,19 +6,19 @@ The Windows Command Prompt uses the <b>Bash scripting language</b>.<br/>
   		list the contents of the directory we are currently in</h2>
 	<h2>“cls”</h2>
  		to clear the screen</h2>
-	<p>“cd Downloads”</h2> 
+	<h2>“cd Downloads”</h2> 
  		to change to the Downloads directory</h2>
-	<p>“cd ..”</h2>
+	<h2>“cd ..”</h2>
  		to go to one directory above</h2>
-	<p>“ipconfig”</h2> 
+	<h2>“ipconfig”</h2> 
  		shows networking settings - IPv4, subnet mask, default gateway, etc.</h2>
-	<p>“ipconfig /all”</h2>
+	<h2>“ipconfig /all”</h2>
  		shows network settings with more/greater detail</h2>
-	<p>“ipconfig /?”</h2>
+	<h2>“ipconfig /?”</h2>
  		shows the Help Menu for ipconfig</h2>
-	<p>“ping /?”</h2>
+	<h2>“ping /?”</h2>
  		brings up the Help menu for ping</h2>
-	<p>“Ctrl + c”</h2>
+	<h2>“Ctrl + c”</h2>
  		to kill current process/lookup running</h2>
 
 
