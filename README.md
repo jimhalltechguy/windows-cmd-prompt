@@ -3,7 +3,6 @@ The Windows Command Prompt uses the <b>Bash scripting language</b>.<br/>
   	Here is a helpful link for more on Windows Command Prompt commands:</p>
   <p>https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands</p>
 
-     
 	<h2>“dir”</h2> 
   		list the contents of the directory we are currently in</h2>
 	<h2>“cls”</h2>
